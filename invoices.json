@@ -1,0 +1,20 @@
+{
+    "customer": "MDT",
+    "performances": [
+      {
+        "playID": "Hamlet",
+        "audience": 55,
+        "type": "tragedy"
+      },
+      {
+        "playID": "Romeo and Juliet",
+        "audience": 35,
+        "type": "tragedy"
+      },
+      {
+        "playID": "Othello",
+        "audience": 40,
+        "type": "comedy"
+      }
+    ]
+}
