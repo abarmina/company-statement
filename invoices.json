@@ -2,17 +2,17 @@
     "customer": "MDT",
     "performances": [
       {
-        "playID": "Hamlet",
+        "playID": "Гамлет",
         "audience": 55,
         "type": "tragedy"
       },
       {
-        "playID": "Romeo and Juliet",
+        "playID": "Ромео и Джульетта",
         "audience": 35,
         "type": "tragedy"
       },
       {
-        "playID": "Othello",
+        "playID": "Отелло",
         "audience": 40,
         "type": "comedy"
       }
